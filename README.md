@@ -9,5 +9,6 @@ Sou apenas um jovem estudante de 19 anos apaixonado pela programação!
 * 🧠  No momento estou apenas adquirindo conhecimento na programação em Java.
 *  ⚡ Eu amo praticar esportes e o meu preferido é futebol.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deivid7Silva3&show_icons=true&theme=transparent)
 
 
