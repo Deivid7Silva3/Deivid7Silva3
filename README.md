@@ -13,5 +13,5 @@ Sou apenas um jovem estudante de 19 anos apaixonado pela programação!
 
 Estudando:
 ============
-![ Java ](https://img.shields.io/badge/-Java-0D1119?style=for-the-badge&logo=javascript&labelColor=0D1119) 
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
