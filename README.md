@@ -12,6 +12,6 @@ Sou apenas um jovem estudante de 19 anos apaixonado pela programação!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deivid7Silva3&show_icons=true&theme=transparent)
 
 Estudando:
-
+============
 ![ Java ](https://img.shields.io/badge/-Java-0D1119?style=for-the-badge&logo=javascript&labelColor=0D1119) 
 
