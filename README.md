@@ -1,7 +1,7 @@
 Oii👋 meu nome é Deivid Silva!
 ==================================
 
-Sou apenas um jovem estudante de 19 anos apaixonado pela programação!
+Sou apenas um jovem estudante de 20 apaixonado pela programaçâo!
 
  * 🌎 Moro em São Paulo, Brasil.
 * 📧 E-mail para entrar em contato comigo deividsouzaa341@gmail.com   
